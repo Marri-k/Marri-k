@@ -2,7 +2,7 @@
    <div align="left">
   <h1>Hi 👋, I'm Marri! 
     </div>
-    <div align="right">
+    <div align="left">
       <img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="200"/>
     </div>
   </h1>
@@ -20,11 +20,14 @@
 
 <h3 align="left">Languages and Tools I worked with:</h3>
 <p align="left"> 
+   <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.servicenow.com/content/dam/servicenow-assets/images/meganav/servicenow-header-logo.svg" alt="c" width="160" height="40"/> 
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="c" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://w7.pngwing.com/pngs/520/669/png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark-thumbnail.png" alt="cplusplus" width="40" height="40"/> 
+    <img src="" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.erlang.org/assets/img/erlang-228x200.png" alt="erlang" width="40" height="40"/> 

@@ -24,7 +24,7 @@
     <img src="https://www.servicenow.com/content/dam/servicenow-assets/images/meganav/servicenow-header-logo.svg" alt="c" width="160" height="40"/> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> 

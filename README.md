@@ -9,8 +9,8 @@
 </div>
 
 
-<h3>A student in tech based in Italy</h3>
--💻I studied CE in politechnico di Torino until 2022 and since the end of my exams I've been deepening my knowladge on coding and WebDev.<br>
+<h3>A Tech Consultant based in Italy</h3>
+-💻I studied CE in Politecnico di Torino until 2022 and since the end of my exams I've been deepening my knowledge on coding and WebDev.<br>
 - 🌱 I’m currently learning **AWS and JS**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,9 +20,7 @@
 
 <h3 align="left">Languages and Tools I worked with:</h3>
 <p align="left"> 
-   <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.servicenow.com/content/dam/servicenow-assets/images/meganav/servicenow-header-logo.svg" alt="c" width="160" height="40"/> 
-  </a>
+   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/> 
   </a> 

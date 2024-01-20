@@ -11,10 +11,10 @@
 
 <h3>A Tech Consultant based in Italy</h3>
 -💻I studied CE in Politecnico di Torino until 2022 and since the end of my exams I've deepened my knowledge on coding and WebDev.<br>
--🌱Always eager to learn more.
--🖥I’m currently working in EY as a tech consultant and facilitating business requires through ServiceNow.
--🌟CSA accomplished, Seeking CAD and SAM! 
--🪰currently I'd like to learn more about developing apps and Software Engineering.
+-🌱Always eager to learn more.<br>
+-🖥I’m currently working in EY as a tech consultant and facilitating business requires through ServiceNow.<br>
+-🌟CSA accomplished, Seeking CAD and SAM! <br>
+-🪰currently I'd like to learn more about developing apps and Software Engineering.<br>
 -🎪On my free time, if not traveling, I explore the world of Tolkin and practice aerial hoop.
 
 
